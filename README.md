@@ -1,3 +1,10 @@
+![C#](https://img.shields.io/badge/language-C%23-blue)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-8-blue)
+![RESTful API](https://img.shields.io/badge/RESTful-API-orange)
+ ![MediatR](https://img.shields.io/badge/MediatR-Event%20Handling-red)
+ ![SignalR](https://img.shields.io/badge/SignalR-RealTime-green)
+
+
 English
 
 This project uses Observer Pattern, MediatR, SignalR, and .NET Core 8 to implement a real-time notification system for energy consumption. It allows for observing energy consumption data, sending notifications when a threshold is exceeded, and using MediatR for handling events in a decoupled and efficient manner. SignalR is used to send real-time updates to clients. The project also exposes a RESTful API for external interactions.
