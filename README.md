@@ -3,6 +3,8 @@
 ![RESTful API](https://img.shields.io/badge/RESTful-API-orange)
  ![MediatR](https://img.shields.io/badge/MediatR-Event%20Handling-red)
  ![SignalR](https://img.shields.io/badge/SignalR-RealTime-green)
+ ![Observer Pattern](https://img.shields.io/badge/Design%20Pattern-Observer-yellow)  
+
 
 
 English
